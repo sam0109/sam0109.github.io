@@ -9,7 +9,6 @@ subtitle: Another nerd interested in science, art, and programming!
 I'm a Financial Software Developer working on the FXGO Options trading platorm at Bloomberg LP
 
 ### Passion
-Recreational programming, including
  * Game Design
  * ML / Data Science
  * Artistic programming (See my LED board project)
