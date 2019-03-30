@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Another nerd interested in science, art, and programming!
 ---
+![](img/Ikigai.png)
 
-My name is Inigo Montoya. I have the following qualities:
+### Profession
+I'm a Financial Software Developer working on the FXGO Options trading platorm at Bloomberg LP
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Passion
+Recreational programming, including
+ * Game Design
+ * ML / Data Science
+ * Artistic programming (See my LED board project)
 
-What else do you need?
+### What I love
+ * Playing guitar / singing
+ * Rock Climbing
+ * Bralizian Jiu Jitsu
 
-### My story
+Still working on my Ikigai, but I hope to find it in ML research.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My history in a breath
+ * Grew up in the San Francisco Bay Area
+ * Attended the wonderful [Peninsula School](https://www.peninsulaschool.org/), followed by [Summit Prep](https://summitps.org/our-schools/summit-prep-redwood-city/)
+ * Attended [UCLA](http://www.ucla.edu/) and got my Bachelors in Computer Science
+ * Taught at [iD Tech](https://www.idtech.com/) for one summer then interned at [Magic Leap](https://www.magicleap.com/) for two
+ * Moved to New York and began work at Bloomberg L.P.
