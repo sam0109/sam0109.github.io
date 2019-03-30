@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Statistically Comparing ML Algorithms
-image: /img/training.png
+image: /img/evaluation_methods.png
 ---
 
 In this notebook, I go over the main points of the paper "Approimate Statistical Tests for Comparing Supervised Classification Learning Algorithms" by Dietterich (1998) in a (hopefully) consumeable format, then re-create the paper's code in python! The raw jupyter notebook can be found [here](https://github.com/sam0109/BBML/blob/master/Dietterich_recreation.ipynb)
