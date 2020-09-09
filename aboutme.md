@@ -16,7 +16,7 @@ I'm a Financial Software Developer working on the FXGO Options trading platorm a
 ### What I love
  * Playing guitar / singing
  * Rock Climbing
- * Bralizian Jiu Jitsu
+ * Brazilian Jiu Jitsu
 
 Still working on my Ikigai, but I hope to find it in ML research.
 
