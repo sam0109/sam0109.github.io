@@ -4,6 +4,7 @@ title: A Man, a Plan, and a Van
 image: /img/van_icon.png
 thumbnail-img: /img/van_icon.png
 share-img: /img/van_icon.png
+tags: [van]
 ---
 
 Hello there, I'm writing this blog to keep friends, family, and any strangers who stumble upon this series of posts up-to-date on my van progress!
